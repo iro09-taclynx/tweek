@@ -24,4 +24,4 @@ jobs:
           context: .
           push: true
           # Replace 'your-username' and 'ai-security' with your actual GitLab path
-          tags: registry.gitlab.com/your-username/ai-security:latest
+          tags: registry.gitlab.com/Iro09/ai-security:latest
